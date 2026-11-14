@@ -1,10 +1,4 @@
 {
-  "https://house.ettoday.net/news/3267120": "台積電擴廠、科技宅卻難躺著賣　專家揭房市轉折",
-  "https://www.ettoday.net/news/20261105/3267108.htm": "獨／貧窮限制想像！新竹貴婦砸20萬包「高空酒吧」　幫2愛犬慶生",
-  "https://www.ettoday.net/news/20261105/3267098.htm": "拒菸很有梗！台中短影音徵件吸引79件投稿　網路投票近萬人次",
-  "https://www.ettoday.net/news/20261105/3267094.htm": "實實看這邊！蔡英文合體何欣純　文心公園見粉絲帶毛孩超興奮",
-  "https://udn.com/news/story/124652/9860210": "影／蔡英文合體何欣純出席毛小孩活動 萬人湧文心森林公園朝聖",
-  "https://news.nextapple.com/politics/20261105/14F7A8A5811F3A51A24DF113CF930CC4": "何欣純、蔡英文開毛孩趴　文心森林公園秒變寵物同樂會",
   "https://news.ltn.com.tw/news/life/breakingnews/5630909": "台中轉運中心啟用首日27條國道客運進駐 半天疏運逾1200人",
   "https://news.ltn.com.tw/news/society/breakingnews/5630839": "嫌「電視太吵」！台中男猛刺鄰婦、勸架翁判8年4月 民事再賠107萬",
   "https://udn.com/news/story/7325/9860287": "AI短影音+饒舌酷宣導！ 台中青年用創意破菸品迷思吸近萬人投票",
@@ -952,7 +946,7 @@
   "https://www.ettoday.net/news/20261114/3272018.htm": "盧秀燕、蔣萬安、許淑華接棒力挺周佳琪　籲屏東市民支持連任",
   "https://udn.com/news/story/7325/9878385": "東豐、后豐鐵馬道串聯台中綠空廊道有譜 陳清龍協調用地、經費到位",
   "https://udn.com/news/story/7320/9878381": "台中后里工寮火警無人傷亡 遠從豐原就可看到濃煙",
-  "https://news.ltn.com.tw/news/society/breakingnews/5640476": "剛下班就出事！300萬豪車撞分隔島再撞斷路燈 駕駛竟淡定滑手機",
+  "https://news.ltn.com.tw/news/society/breakingnews/5640476": "台中大里清晨車禍 300萬休旅車自撞分隔島、撞斷路燈",
   "https://udn.com/news/story/124652/9878498": "綠營「洋流」11/20吹進台中大造勢！藍營江啟臣說話了",
   "https://www.ettoday.net/news/20261114/3272052.htm": "東區醫療網勇奪全國3大獎　慈院獲東區標竿醫院",
   "https://www.ettoday.net/news/20261114/3272071.htm": "台中猴開BMW毒駕闖紅燈！車門慘被瑪莎拉蒂撞凹　超慘畫面曝",
@@ -996,7 +990,13 @@
   "https://udn.com/news/story/7320/9878934": "怎麼開的？台中山區車禍翻肚側躺 消防隊員救出受困母子檔",
   "https://udn.com/news/story/7315/9859943": "台中某國小爆隨機攻擊9歲男童受傷 警查獲涉案47歲男子偵辦中",
   "https://www.ettoday.net/news/20261114/3272256.htm": "安心大遊行喊出「破5萬人」　盧秀燕心疼蔣萬安遭槍林彈雨抹黑",
-  "https://news.ltn.com.tw/news/society/breakingnews/5640935": "母子出遊驚魂記！赴谷關蝴蝶谷遇雨折返 翻車受困",
+  "https://news.ltn.com.tw/news/society/breakingnews/5640935": "母子出遊驚魂記！赴谷關蝴蝶谷遇雨折返 翻車受困獲救",
   "https://news.ltn.com.tw/news/life/breakingnews/5640877": "台中彩虹遊行回來了！上千人冒雨踩街 巨幅彩虹旗領軍",
-  "https://udn.com/news/story/124652/9879006": "怕賴清德說「我們是雜質」 倒數14天盧秀燕曝支持者不表態原因"
+  "https://udn.com/news/story/124652/9879006": "怕賴清德說「我們是雜質」 倒數14天盧秀燕曝支持者不表態原因",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5640921": "助攻台中市議員張芬郁、陳雅惠拚連任 莊瑞雄陪車掃",
+  "https://news.ltn.com.tw/news/society/breakingnews/5640986": "想離職竟動歪腦筋！台中男拿手機修圖「兵單」東窗事發下場出爐",
+  "https://www.ettoday.net/news/20261114/3272317.htm": "AI科技智慧防路殺！新北「鯪鯉共好」勇奪總統盃黑客松卓越獎",
+  "https://udn.com/news/story/7324/9879037": "影／苗栗「巴宰族過新年」今登場 各地族人共聚三義鯉魚國小傳承文化",
+  "https://udn.com/news/story/124652/9879030": "安心大遊行神秘嘉賓...「蜂蜜檸檬」吳萼洋現身挺蔣萬安：我才是真洋流",
+  "https://udn.com/news/story/124652/9879025": "鄭麗文笑稱李四川從奶昔大哥變陳高 辯論會表現超嗆辣"
 }
